@@ -11,5 +11,5 @@ To start the application, run following commands
 
 ## Notes
 
-- The application uploads all files under ./uploaded-files
-- Each file is saved as Date.now()_<original file name with extension>
+- The application uploads all files under `./uploaded-files`
+- Each file is saved as `Date.now()_<original file name with extension>`
